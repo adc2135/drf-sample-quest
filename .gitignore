@@ -1,0 +1,17 @@
+# Ignore Vim Files:
+*~
+*.swp
+*.swo
+
+# Ignore Python Virtual Env Directory
+venv/
+
+
+# Ignore Sqlite Files
+db.sqlite3
+
+
+# Ignore Python Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
